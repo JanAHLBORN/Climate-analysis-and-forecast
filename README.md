@@ -1,2 +1,2 @@
 # Climate-analysis-and-forecast
-The central goal of this project is to combine machine learning, data analysis, pipelining and database workflows within a single assignment: Weather data analysis and forecast. Sata will be downloaded from APIs and the processed and stored in databases. Then different ML models are trained on the data for forecasting. 
+The central goal of this project is to combine machine learning, data analysis, pipelining and database workflows within a single assignment: Weather data analysis and forecast. Data will be downloaded from APIs and processed and stored in databases. Then different ML models are trained on the data for forecasting. The complete setup (commits, unit tests, database, security) is designed to be enterprise-like.
